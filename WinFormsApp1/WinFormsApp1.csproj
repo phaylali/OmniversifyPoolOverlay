@@ -1,0 +1,20 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <AssemblyName>OmniversifyPoolOverlay</AssemblyName>
+    <RootNamespace>OmniversifyPool</RootNamespace>
+    <ApplicationIcon>favicon.ico</ApplicationIcon>
+    <SignAssembly>False</SignAssembly>
+    <BaseOutputPath>C:\Users\phaylali\Desktop\New folder</BaseOutputPath>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="favicon.ico" />
+  </ItemGroup>
+
+</Project>
